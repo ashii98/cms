@@ -4,9 +4,18 @@
   "private": true,
   "homepage": "https://ashii98.github.io/cms/",
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1",
+    "izitoast": "^1.4.0",
+    "jquery": "^3.3.1",
+    "material-icons-react": "^1.0.4",
+    "moment": "^2.23.0",
+    "popper.js": "^1.14.6",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
+    "react-lottie": "^1.2.3",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.2"
   },
   "scripts": {
